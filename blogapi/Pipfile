@@ -8,6 +8,7 @@ django = "*"
 python-decouple = "*"
 djangorestframework = "*"
 django-rest-auth = "*"
+django-allauth = "*"
 
 [dev-packages]
 
